@@ -1,4 +1,4 @@
-# Proyecto hecho en clases por mi profesor Angel Daniel Fuentes Segura
+# Proyecto hecho en clases por mi profesor Ángel Daniel Fuentes Segura 
 <h1>JavaScript - localStorage</h1>
 <br>
 <h2>Pequeño proyecto. Creado para mis alumnos de la <strong> Universidad Tres de Frebrero (UNTREF) - Argentina - Bajo el marco del Proyecto: Argentina Programa</strong></h2>
